@@ -338,36 +338,6 @@ Nginx handles:
 
 ---
 
-## 📁 Project Structure
-
-ask-the-docs/
-│
-├── backend/
-│ ├── app.py
-│ ├── rag/
-│ │ ├── loader.py
-│ │ ├── chunker.py
-│ │ ├── embeddings.py
-│ │ ├── vector_store.py
-│ │ ├── retriever.py
-│ │ └── prompt.py
-│ ├── llm/
-│ ├── utils/
-│ ├── Dockerfile
-│
-├── ui/
-│ ├── app.py
-│ ├── Dockerfile
-│
-├── logs/
-│   └── history.json
-│
-├── .gitignore
-└── README.md
-
-
-
----
 
 ## 🚀 Future Improvements
 
